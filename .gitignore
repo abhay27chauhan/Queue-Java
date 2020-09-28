@@ -1,3 +1,5 @@
 queue.class
 BuildNormalQueue.class
 BuildNormalQueue$CustomQueue.class
+BuildDynamicQueue.class
+BuildDynamicQueue$CustomQueue.class
