@@ -3,3 +3,5 @@ BuildNormalQueue.class
 BuildNormalQueue$CustomQueue.class
 BuildDynamicQueue.class
 BuildDynamicQueue$CustomQueue.class
+QueueToStackAdapter1.class
+QueueToStackAdapter1$QueueToStackAdapter.class
